@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Emotional Burnout",
+    "what_it_looks_like": "Emotional burnout is often the result of prolonged stress. You might feel emotionally overwhelmed, depleted, or unable to cope with even small challenges. Relationships may suffer because you feel too drained to invest emotionally.",
+    "signs": [
+      "Feeling detached or disconnected from loved ones",
+      "Difficulty managing emotions like anger or sadness",
+      "Feeling empty or emotionally numb",
+      "Overreacting to minor issues"
+    ],
+    "healing_steps": "Emotional burnout requires nurturing your emotional resilience and learning to regulate your nervous system.",
+    "reviewed": false
+  },
+  {
+    "title": "Physical Burnout",
+    "what_it_looks_like": "Physical burnout occurs when your body has been pushed beyond its limits, often from lack of rest, poor diet, or chronic illness. You might feel constantly fatigued, even after sleep, and experience persistent aches, pains, or other physical symptoms.",
+    "signs": [
+      "Constant fatigue, regardless of rest",
+      "Muscle aches, headaches, or chronic pain",
+      "Weak immune system or frequent illnesses",
+      "Difficulty concentrating or completing daily tasks"
+    ],
+    "healing_steps": "Physical burnout is your body's way of asking for deep rest and restoration.",
+    "reviewed": false
+  },
+  {
+    "title": "Mental Burnout",
+    "what_it_looks_like": "Mental burnout stems from overwhelming cognitive demands, like constant multitasking or problem-solving. You might feel mentally drained, have trouble focusing, or struggle to remember things. Mental exhaustion can make it difficult to be productive or think creatively.",
+    "signs": [
+      "Brain fog or forgetfulness",
+      "Struggling to concentrate or make decisions",
+      "Feeling mentally fried or overwhelmed",
+      "Difficulty engaging with tasks you once enjoyed"
+    ],
+    "healing_steps": "Mental burnout can benefit from brain retraining and neuroplasticity techniques.",
+    "reviewed": false
+  },
+  {
+    "title": "Social Burnout",
+    "what_it_looks_like": "Social burnout occurs when you feel overwhelmed or drained by social interactions. This type of burnout is common in people who feel obligated to care for others or maintain relationships, leading to feelings of resentment or isolation.",
+    "signs": [
+      "Irritability or frustration in social situations",
+      "Avoiding social events or gatherings",
+      "Feeling like you have nothing to give emotionally to others",
+      "Resentment toward those who need your help or support"
+    ],
+    "healing_steps": "Setting healthy boundaries and learning to balance social connections with self-care is key.",
+    "reviewed": false
+  },
+  {
+    "title": "Purpose-Driven Burnout",
+    "what_it_looks_like": "Purpose-driven burnout happens when you are deeply passionate about your work but feel unfulfilled or stuck. You may start to question the meaning of what you are doing, feel underappreciated, or even consider abandoning your goals.",
+    "signs": [
+      "Feeling like your work or passion no longer brings joy",
+      "Struggling with a sense of hopelessness or dissatisfaction",
+      "Questioning your purpose or life path",
+      "Feeling like no matter how hard you work, it is never enough"
+    ],
+    "healing_steps": "Reconnecting with your deeper purpose and learning to manage stress around your goals can reignite your passion.",
+    "reviewed": false
+  }
+]
